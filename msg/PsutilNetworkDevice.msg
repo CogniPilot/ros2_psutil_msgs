@@ -1,0 +1,4 @@
+string nic_name
+PsutilNetworkAddress[] network_address
+PsutilNetworkState network_state
+PsutilNetworkStats network_stats

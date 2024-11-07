@@ -1,0 +1,10 @@
+float32 user
+float32 nice
+float32 system
+float32 idle
+float32 iowait
+float32 irq
+float32 softirq
+float32 steal
+float32 guest
+float32 guest_nice
