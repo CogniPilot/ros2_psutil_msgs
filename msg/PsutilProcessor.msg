@@ -1,0 +1,2 @@
+PsutilProcessorFrequency frequency
+PsutilProcessorPercent percent

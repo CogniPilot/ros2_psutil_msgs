@@ -1,0 +1,4 @@
+string temperature_name
+float32 current
+float32 high
+float32 critical
